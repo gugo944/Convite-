@@ -112,8 +112,8 @@
     </div>
 
     <div id="letter">
-        <p>Oi [Nome dela],</p>
-        <p>Você quer sair comigo?</p>
+        <p>Oi Camila Kalatay,</p>
+        <p>Você quer ir na seta para a pizzaria?</p>
         <div id="options">
             <button id="accept" onclick="acceptInvitation()">Aceitar</button>
             <button id="decline" onmouseover="moveDeclineButton()">Recusar</button>
